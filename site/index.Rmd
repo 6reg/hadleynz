@@ -28,4 +28,4 @@ If you'd like to learn more about what I do, and how to use R effectively, you m
 -   [R packages](http://r-pkgs.org/) teaches good software engineering practices for R, using packages for bundling, documenting, and testing your code.
 
 Outside of work, I love to [bake](https://recipes.had.co.nz) and make [cocktails](https://cocktails.hadley.nz).
-My sister [Charlotte](http://cwick.co.nz/) is a Assistant Professor of Statistics at Oregon State University.
+My sister [Charlotte](http://cwick.co.nz/) is an Assistant Professor of Statistics at Oregon State University.
